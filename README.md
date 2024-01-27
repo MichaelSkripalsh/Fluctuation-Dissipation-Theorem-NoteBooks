@@ -5,8 +5,8 @@
 ## **This repository is organized in the following way**
 
 |—— python_notebooks \
-│   |—— notebook_src \
-│   |—— notebook_summary \
+│&nbsp;&nbsp;|—— notebook_src \
+│&nbsp;&nbsp;|—— notebook_summary \
 |—— c_code \
 |—— theory \
 |——LICENSE.txt \
