@@ -1,6 +1,6 @@
 # **Fluctuation Dissipation Theorem Notebook**
 
-  This github repository is a collection of python jupyter notebooks (and some accompanying c code for c programmers) that provide a pedagogical introduction to the fluctuation dissipation theorem. The goal of these notebooks is to walk the reader through a tour starting with the simplest harmonic oscillator model to a damped oscillator coupled to a thermall bath and understanding the fluctuation dissipation theorem by writing (or at least following) python code that can give a more visual and creative picture of this important result of statistical mechanics.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This github repository is a collection of python jupyter notebooks (and some accompanying c code for c programmers) that provide a pedagogical introduction to the fluctuation dissipation theorem. The goal of these notebooks is to walk the reader through a tour starting with the simplest harmonic oscillator model to a damped oscillator coupled to a thermall bath and understanding the fluctuation dissipation theorem by writing (or at least following) python code that can give a more visual and creative picture of this important result of statistical mechanics.
 
 ## **This repository is organized in the following way**
 
