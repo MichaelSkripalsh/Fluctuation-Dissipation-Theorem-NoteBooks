@@ -4,15 +4,20 @@
 
 ## **This repository is organized in the following way**
 
-tree
+├── python_notebooks
+│   ├── notebook_src
+│   ├── notebook_summary
+├── c_code
+├── theory
+├── LICENSE.txt
+├── README.md
+└── .gitignore
 
-\python_notebooks \src \code summaries \c_code \theory
+*\python_notebooks \src* : contains the primary notebooks. \code summaries contains the same notebooks except without long explanatory text —to provide a quick code look up for those who are returning to the notebooks after reading the full notebooks first.
 
-\python_notebooks \src : contains the primary notebooks. \code summaries contains the same notebooks except without long explanatory text —to provide a quick code look up for those who are returning to the notebooks after reading the full notebooks first.
+*\c_code* : contains harmonic oscillator simulations in c code (with python programs that analyze the results of the c code)
 
-\c_code : contains harmonic oscillator simulations in c code (with python programs that analyze the results of the c code)
-
-\theory : latex documents that outline the relevant theory used in these notebooks
+*\theory* : latex documents that outline the relevant theory used in these notebooks
 
 #Brief There are N notebooks in this repository
 
